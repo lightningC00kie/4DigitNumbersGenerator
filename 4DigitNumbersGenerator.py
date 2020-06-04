@@ -1,4 +1,3 @@
-import os
 threeZero = '000'
 twoZero = '00'
 oneZero = '0'
